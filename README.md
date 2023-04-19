@@ -14,6 +14,7 @@ Actualmente, estoy desarrollando una aplicación móvil para Android.<br>Estudia
 
 #LetMeDoIt (Aplicación móvil Android)
 https://github.com/joseBermudo/LetMeDoIt.git
+
 #Cantina del Copernic (ERP desarollado en Java)
 https://github.com/joseBermudo/cantina-del-copernic.git
 
